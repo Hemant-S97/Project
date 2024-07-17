@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.left{
+    height: 100vh;
+    background-color: black;
+}
+.getheight{
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+}
+
+.getheight ul{
+    margin-top: 120px;
+}
+ul li{
+    list-style: none;
+    padding: 30px;
+    /* background-color: azure; */
+    font-size: 22px;
+    padding-left: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li a{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0 10px;
+    }
+    .icon{
+        text-decoration: none;
+        background-color: rgb(255, 255, 255);
+        border-radius: 50%;
+        font-size: 20px;
+        padding: 10px;
+        margin-left: 10px;
+        position: relative;
+     
+    }
+    .social i:hover{
+        background: linear-gradient(90deg, rgba(175,38,118,1) 90%, rgba(68,27,69,1) 100%);
+        color: #fff;
+    
+    }
+    /* a::after{
+        content: "";
+        position: absolute;
+        background-color: #ff3c78;
+        height: 3px;
+        width: 0;
+        left: 0;
+        bottom: -10px;
+    }
+    a:hover:after{
+        width: 100%;
+    } */
+    .rights{
+        background-color: #100E24;
+    }
+    .small{
+        font-size: 20px;
+        color: #fff;
+        font-weight: bold;
+        margin-top: 150px;
+        margin-left: 25px;
+    }
+    .big{
+        color: #fff;
+        font-size: 60px;
+        margin-left: 25px;
+        margin-top: -50px;
+    }
+    .name{
+        font-size: 70px;
+        /* color: #fff; */
+        margin-left: 40px;
+        margin-top: 20px;
+        font-weight: bold;
+    color: linear-gradient(90deg, rgb(77, 22, 54) 90%, rgba(68,27,69,1) 100%);
+}
+.btn{
+    background: linear-gradient(90deg, rgba(175,38,118,1) 90%, rgba(68,27,69,1) 100%);
+    margin-left: 210px;
+    margin-top: -15px;
+    border-radius: 0px;
+}
+.lower{
+    font-size: 30px;
+    color: #fff;
+    margin-left: 200px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+.elli{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.para{
+    color: #fff;
+    font-weight: bold;
+    font-size: 23px;
+    margin-left: 200px;
+    margin-top: 300px;
+}
+.num{
+    color: #fff;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.user{
+    color: #fff;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.loc{
+    color: #fff;
+    margin-left: 100px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+.mail{
+    color: #fff;
+    margin-left: 200px;
+    font-size: 16px;
+    margin-top: -10px;
+
+}
